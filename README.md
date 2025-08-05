@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bá Tùng</h1>
 <h3 align="center">A passionate software developer from Ha Noi, Viet Nam</h3>
 
-- 🔭 I’m currently working on [O2 Skin Clinic Management](https://o2skin.asia/)
+- 🔭 I’m currently working on [Sotatek DID Center](https://did.sotatek.works/)
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Software Engineer**
 
 - 📫 How to reach me **tungbtwork@gmail.com**
 
