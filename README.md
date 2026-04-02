@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bá Tùng</h1>
 <h3 align="center">A passionate software developer from Ha Noi, Viet Nam</h3>
 
-- 🔭 I’m currently working on [Sotatek DID Center](https://did.sotatek.works/)
+- 🔭 I’m currently working as a Software Engineer at SotaTek
 
-- 🌱 I’m currently learning **Software Engineer**
+- 💻 My portfolio https://tungba103.github.io
+
+- 📄 My work experiences [https://www.topcv.vn/xem-cv/UVAFAAINBQRTUV4HAQxaAw9RBgJVUwAEWlYEBg3447](https://www.topcv.vn/xem-cv/UVAFAAINBQRTUV4HAQxaAw9RBgJVUwAEWlYEBg3447)
 
 - 📫 How to reach me **tungbtwork@gmail.com**
 
-- 📄 Know about my experiences [https://www.topcv.vn/xem-cv/UVAFAAINBQRTUV4HAQxaAw9RBgJVUwAEWlYEBg3447](https://www.topcv.vn/xem-cv/UVAFAAINBQRTUV4HAQxaAw9RBgJVUwAEWlYEBg3447)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tungba103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tungba103/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tungba103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tungba103/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
